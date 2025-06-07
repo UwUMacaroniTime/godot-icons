@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="hurtbox_2d.svg"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1" /><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="22.627417"
+     inkscape:cx="4.4857086"
+     inkscape:cy="9.3912619"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><path
+     id="path6"
+     style="color:#000000;fill:#a5b7f3;-inkscape-stroke:none"
+     inkscape:label="path2"
+     d="M 10.351563,3.8710938 C 9.5245245,3.7136618 8.6919569,3.9089276 8,4.3515625 7.3079104,3.9088228 6.4746848,3.7133 5.6464844,3.8730469 4.1163061,4.164936 3,5.5146237 3,7.0722656 V 7.125 C 3,8.2197572 3.5645854,9.1116057 4.2480469,9.7460938 H 4.25 L 4.09375,9.559 6.9003906,12.195313 8,13.175781 9.0996094,12.193359 11.939453,9.5585938 C 12.616286,8.9302615 13,8.0475062 13,7.125 V 7.0722656 C 13,5.5146231 11.884537,4.1631356 10.353516,3.8710938 Z M 5.9921875,5.6796875 h 0.00195 c 0.3791989,-0.073142 0.7679191,0.015974 1.078125,0.234375 0.088963,0.063728 0.1699719,0.1340764 0.2421875,0.2148437 l 0.6933594,0.7753907 0.6855469,-0.78125 c 0.035933,-0.041068 0.07385,-0.08045 0.1191406,-0.1191407 l 0.00195,-0.00195 L 8.8164063,6 C 8.8088363,6.00655 8.8975683,5.937587 8.9277344,5.914063 9.2379346,5.6956622 9.6274518,5.6072839 10.007813,5.679688 c 0.674626,0.1286847 1.152343,0.7063069 1.152343,1.3925781 V 7.125 c 0,0.4130077 -0.17097,0.8039167 -0.472656,1.0839844 l -2.6894531,2.4960936 -2.5,-2.3105467 C 5.2032806,8.1193503 4.8398437,7.3653147 4.8398437,7.125 V 7.072266 c 0,-0.6862717 0.4768729,-1.2637287 1.1523438,-1.3925785 z M 1,1 V 3 5 H 3 V 3 H 5 V 1 Z m 10,0 v 2 h 2 v 2 h 2 V 1 Z M 1,11 v 2 2 H 3 5 V 13 H 3 v -2 z m 12,0 v 2 h -2 v 2 h 4 v -2 -2 z" /></svg>
